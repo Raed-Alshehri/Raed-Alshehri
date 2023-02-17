@@ -1,7 +1,7 @@
 ![](https://github.com/Raed-Alshehri/Raed-Alshehri/blob/main/Raed%20Alshehri.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;....This+is+Raed+Alshehri....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;....This+is+Raed+Alshehri....;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
 <h1 align="center">Hi 👋, I'm Raed Alshehri</h1>
